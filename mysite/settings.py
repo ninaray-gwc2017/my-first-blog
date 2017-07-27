@@ -25,7 +25,7 @@ SECRET_KEY = '#6jiotjf3=l8&_b05_&ihqk(v)28$y&)x1=-3*=z$88j09a&=q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'ninaray.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'yaranin.pythonanywhere.com']
 
 
 # Application definition
